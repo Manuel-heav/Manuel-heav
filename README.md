@@ -25,18 +25,11 @@ I'm an Ethiopian full-stack developer and content creator.
 
 #
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@siliconaddis?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuel-heav&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=manuel-heav&theme=gruvbox&border_radius=4.5)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-heav&langs_count=5&theme=tokyonight)]()
-
 #
  
 
