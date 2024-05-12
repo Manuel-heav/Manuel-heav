@@ -1,11 +1,13 @@
 # 🏄‍♂️ Amanuael Kebede
 ![](https://komarev.com/ghpvc/?username=manuel-heav)
 
-
 **`Full Stack Developer (ReactJS, NodeJS, MongoDB)`**
 
 I'm an Ethiopian full-stack developer and content creator. 
   ---
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### 🧰 Languages and Tools
 
@@ -26,10 +28,6 @@ I'm an Ethiopian full-stack developer and content creator.
 #
 
 ### 📊 Stats
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuel-heav&show_icons=true&theme=gruvbox)
 
